@@ -1,0 +1,12 @@
+Barrier
+Cleanse
+Clairvoyence
+Ignite
+Exhaust
+Flash
+Ghost
+Heal
+Clarity
+Revive
+Smite
+Teleport
